@@ -64,7 +64,7 @@ const playerInstance = jwplayer("player").setup({
       
       tracks: [
         {
-          file: "https://cdn.jwplayer.com/strips/iYfADWO1-120.vtt",
+          file: "",
           kind: "thumbnails"
         }
       ]
